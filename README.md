@@ -12,3 +12,4 @@ Crud-APP is a CRUD (Create, Read, Update, Delete) web app built with React (fron
 
 * CRUD operations on your data
 * Built with React, Node.js, and MySQL
+
